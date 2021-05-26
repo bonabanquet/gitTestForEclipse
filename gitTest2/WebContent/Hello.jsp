@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>Hello.jsp</h2>
+	<h2>깃허브에서 수정한 내용</
 </body>
 </html>
